@@ -123,7 +123,8 @@
             speed: 200,
             loop:true,
             strings: [
-              'Developer'
+              'Web Developer',
+              'Solution Architect'
             ],
             breakLines: false
         }); 
