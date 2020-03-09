@@ -1,13 +1,3 @@
-/*========================================================================
-EXCLUSIVE ON themeforest.net
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Template Name   : Alexio
-Author          : PxDraft
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Copyright (c) 2018 - PxDraft
-========================================================================*/
-  
-
 (function($){
     "use strict"
     var ALX = {};
@@ -133,7 +123,6 @@ Copyright (c) 2018 - PxDraft
             speed: 200,
             loop:true,
             strings: [
-              'Designer',
               'Developer'
             ],
             breakLines: false
