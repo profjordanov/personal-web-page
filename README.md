@@ -4,4 +4,4 @@
 
 - All of the photos are original.
 
-- For review just click on the `Clone or download` button and unzip the file.
+### For review just click on the `Clone or download` button and unzip the file.
